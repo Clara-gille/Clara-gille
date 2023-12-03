@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hi, I'm Nobody ✨
+
+Behind my pseudo, I'm Clara, a 21yo developer and artist based in France. I'm currently pursuing a Master at JUNIA ISEN in Lille. 
+
+- Check out my [portfolio](nobodyisgone.fr) to learn more about me and my projects !
+- Here is my [Instagram](https://www.instagram.com/nobodyisgone/) for my art and [Linkedin](https://www.linkedin.com/in/21claragille/) to contact me !
+
 
 <!--
-**Clara-gille/Clara-gille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
